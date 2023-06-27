@@ -1,0 +1,1 @@
+<span><?php echo e($time); ?></span><?php /**PATH /Users/danieldimov/Documents/Projects/Mobidonia/CodeCanyon/MRestorant/Site/resources/views/orders/partials/time.blade.php ENDPATH**/ ?>
